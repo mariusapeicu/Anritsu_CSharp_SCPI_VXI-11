@@ -1,7 +1,7 @@
-# Anritsu SCPI RawSockets C# SCPI Commands example solutions
+# Anritsu SCPI VXI-11 C# SCPI Commands example solutions
 
 ## 1.Overview
-Anritsu SCPI RawSockets C# Commands are SCPI based solutions which run with Anritsu Instruments.
+Anritsu SCPI VXI-11 C# Commands are SCPI based solutions which run with Anritsu Instruments.
 The present example are C# based programs to command Anritsu devices.  
 It exemplifies how to perform the following actions in software communication:
 * Connect 
